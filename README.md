@@ -2,6 +2,10 @@
 
 ## I'm a student :man_technologist: :computer:
 
+## ![](https://visitor-badge.laobi.icu/badge?page_id=mecazadam.mecazadam) **|** [![Github](https://img.shields.io/github/followers/mecazadam?label=Follow&style=social)](https://github.com/mecazadam)
+
+
+
 
 -  :smiley:  I’m currently learning C#
 - 💬 Hello.I am a K.T.U student. I love software. Coffee and software are indispensable. Sometimes, even if I have a problem, I try to solve that project before I sleep until morning.
@@ -9,7 +13,7 @@
 - :books: Reading detective novels
 - :soccer: When it comes to sports, I love football. Karabakh :black_heart::black_heart: , Galatasaray :yellow_heart::heart: , Barcelona :heart::blue_heart:
 
-![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=mecazadam&show_icons=true&theme=dark)
+![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=mecazadam&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mecazadam&theme=tokyonight)
 
 
 - &nbsp;
