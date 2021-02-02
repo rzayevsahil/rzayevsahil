@@ -10,7 +10,7 @@
 -  :smiley:  I’m currently learning C#
 - 💬 Hello.I am a K.T.U student. I love software. Coffee and software are indispensable. Sometimes, even if I have a problem, I try to solve that project before I sleep until morning.
 - :musical_score: I love listening to music 
-- :books: Reading detective novels
+- :books: I'm reading detective novels
 - :soccer: When it comes to sports, I love football. Karabakh :black_heart::black_heart: , Galatasaray :yellow_heart::heart: , Barcelona :heart::blue_heart:
 
 ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=mecazadam&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mecazadam&theme=tokyonight)
