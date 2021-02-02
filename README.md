@@ -16,8 +16,9 @@
 ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=mecazadam&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mecazadam&theme=tokyonight)
 
 
-- &nbsp;
-  <code><img height="20" src="https://miro.medium.com/max/651/1*6SKpzap0ydNfy_Sxcl4aFQ.png"></code>
+-
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)
   ![C#](https://img.shields.io/badge/C%23-%20-333333?style=flat&logo=csharp)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -29,8 +30,7 @@
  
   
 
-
-![Instagram](https://img.shields.io/badge/-333333?style=flat&logo=instagram)[instagram] **|**
+- ![Instagram](https://img.shields.io/badge/-333333?style=flat&logo=instagram)[instagram] **|**
 ![Linkedin](https://img.shields.io/badge/-333333?style=flat&logo=linkedin)[linkedin] **|**
 ![Facebook](https://img.shields.io/badge/-333333?style=flat&logo=facebook)[facebook] **|**
 ![Twitter](https://img.shields.io/badge/-333333?style=flat&logo=twitter)[twitter] 
