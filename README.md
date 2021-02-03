@@ -27,17 +27,12 @@
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   
   
- 
+  
+- [![Instagram Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/sahil_rzayev__/) 
+  [![Linkedin Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahil-rzayev-a39346198/) 
+- [![Facebook Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20facebook-darkblue?style=for-the-badge&logo=facebook)](https://www.facebook.com/mecaz.adam.712) 
+  [![Twitter Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Sahil_Rzayev_) 
+  
   
 
-- ![Instagram](https://img.shields.io/badge/-333333?style=flat&logo=instagram)[instagram] **|**
-![Linkedin](https://img.shields.io/badge/-333333?style=flat&logo=linkedin)[linkedin] **|**
-![Facebook](https://img.shields.io/badge/-333333?style=flat&logo=facebook)[facebook] **|**
-![Twitter](https://img.shields.io/badge/-333333?style=flat&logo=twitter)[twitter] 
 
-
-
-[instagram]: https://www.instagram.com/sahil_rzayev__/
-[linkedin]: https://www.linkedin.com/in/sahil-rzayev-a39346198/
-[facebook]: https://www.facebook.com/mecaz.adam.712
-[twitter]: https://twitter.com/Sahil_Rzayev_
