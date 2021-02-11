@@ -22,6 +22,15 @@
 
 </details>
 
+
+
+<footer>
+  <p>Yazar: Hayri Hay</p>
+  <p>İletişim: <a href="Contact Me 📫">
+  Contact Me 📫</a>.</p>
+</footer>
+
+
 -
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)
