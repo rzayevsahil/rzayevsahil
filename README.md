@@ -12,8 +12,15 @@
 - :musical_score: I love listening to music 
 - :books: I'm reading detective novels
 
+<br />
+<br />
+
+ <details>
+   <summary>:zap: GitHub Stats</summary>
+  
 ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=mecazadam&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mecazadam&theme=tokyonight)
 
+</details>
 
 -
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
