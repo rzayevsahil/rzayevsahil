@@ -41,6 +41,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahilrzayev) 
 - [![Facebook Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20facebook-darkblue?style=for-the-badge&logo=facebook)](https://www.facebook.com/mecaz.adam.712) 
   [![Twitter Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Sahil_Rzayev_) 
+- [![Gmail Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20gmail-blue?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/#inbox) 
   
   
 
