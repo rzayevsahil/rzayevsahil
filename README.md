@@ -2,7 +2,7 @@
 
 ## I'm a student :man_technologist: :computer:
 
-## ![](https://visitor-badge.laobi.icu/badge?page_id=rzayevsahil.rzayevsahil) **|** [![Github](https://img.shields.io/github/followers/rzayevsahil?label=Follow&style=social)](https://github.com/rzayevsahil)
+## [![Github](https://img.shields.io/github/followers/rzayevsahil?label=Follow&style=social)](https://github.com/rzayevsahil)
 
 
 
