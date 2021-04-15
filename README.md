@@ -18,7 +18,7 @@
  <details>
    <summary>:zap: GitHub Stats</summary>
   
-![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=mecazadam&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mecazadam&theme=tokyonight)
+![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=rzayevsahil&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevsahil&theme=tokyonight)
 
 </details>
 
