@@ -2,7 +2,7 @@
 
 ## 𝘐'𝘮 𝘢 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 :computer:
 
-## [![Github](https://img.shields.io/github/followers/rzayevsahil?label=Follow&style=social)](https://github.com/rzayevsahil)
+## [![Github](https://img.shields.io/github/followers/rzayevsahil?label=Follow&style=social)](https://github.com/rzayevsahil) [![Github](https://img.shields.io/github/stars/rzayevsahil?label=Star&style=social)](https://github.com/rzayevsahil)
 
 
 <details>
