@@ -15,14 +15,14 @@
 
 - :books: 𝐈'𝐦 𝐫𝐞𝐚𝐝𝐢𝐧𝐠 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐯𝐞 𝐧𝐨𝐯𝐞𝐥𝐬
 
-<br />
-<br />
+
 
  <details>
+  ***
    <summary>:zap: GitHub Stats</summary>
   
 ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=rzayevsahil&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevsahil&theme=tokyonight)
-
+  ***
 </details>
 
 
