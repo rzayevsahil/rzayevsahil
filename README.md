@@ -51,7 +51,7 @@
   ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆 📫
  
 - [![Twitter Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() sahilrzayev200d@gmail.com 
-- [![Instagram Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/sahil_rzayev__/) 
+- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahil_rzayev__/) 
   [![Linkedin Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahilrzayev) 
 - [![Facebook Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20facebook-darkblue?style=for-the-badge&logo=facebook)](https://www.facebook.com/mecaz.adam.712) 
   [![Twitter Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Sahil_Rzayev_) 
