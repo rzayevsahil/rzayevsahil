@@ -27,16 +27,15 @@
 
 
 
--  
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)  
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
+
+
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=badge&logo=c%2B%2B&logoColor=white)![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=badge&logo=javascript&logoColor=F7DF1E)  
   ![C#](https://img.shields.io/badge/C%23-239120?style=badge&logo=c-sharp&logoColor=white)
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
-  ![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)  
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)  
   ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
   ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Git](https://img.shields.io/badge/Git-F05032?style=badge&logo=git&logoColor=white)
