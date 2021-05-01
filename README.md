@@ -6,7 +6,7 @@
 
 
 <details>
-<summary>About Me</summary>
+<summary>About Me ℹ️</summary>
 
 -  :smiley:  ░▒▓█ 𝑰'𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑱𝒂𝒗𝒂 █▓▒░
   
