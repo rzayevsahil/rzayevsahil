@@ -4,8 +4,10 @@
 
 ## [![Github](https://img.shields.io/github/followers/rzayevsahil?label=Follow&style=social)](https://github.com/rzayevsahil)
 
-
-
+<details>
+  
+<summary>About Me</summary>
+***
 
 -  :smiley:  ░▒▓█ 𝑰'𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑱𝒂𝒗𝒂 █▓▒░
   
@@ -14,15 +16,16 @@
 - :musical_score: ♫♪ 𝐈 𝐥𝐨𝐯𝐞 𝐥𝐢𝐬𝐭𝐞𝐧𝐢𝐧𝐠 𝐭𝐨 𝐦𝐮𝐬𝐢𝐜 ♪♫
 
 - :books: 𝐈'𝐦 𝐫𝐞𝐚𝐝𝐢𝐧𝐠 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐯𝐞 𝐧𝐨𝐯𝐞𝐥𝐬
-
+  ***
+</details>
 
 
  <details>
-  ***
+***
    <summary>:zap: GitHub Stats</summary>
   
 ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=rzayevsahil&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevsahil&theme=tokyonight)
-  ***
+***
 </details>
 
 
@@ -47,15 +50,18 @@
   
   
   ---------------------------------------------------------------------------------------------------------------------------------------------
+  <details>
+  ***
+ <summary>𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆 📫</summary>
   
-  ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆 📫
- 
  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=badge&logo=gmail&logoColor=white)](https://www.sahilrzayev200d@gmail.com) sahilrzayev200d@gmail.com
  - [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahil_rzayev__/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilrzayev) 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=badge&logo=facebook&logoColor=white)](https://www.facebook.com/mecaz.adam.712) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=badge&logo=twitter&logoColor=white)](https://twitter.com/Sahil_Rzayev_) 
+***
 
+</details>
   
   
 
