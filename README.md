@@ -1,16 +1,19 @@
-### Hi,I'm Sahil Rzayev
+### ╰☆☆ 𝐇𝐢,𝐈'𝐦 𝐒𝐚𝐡𝐢𝐥 𝐑𝐳𝐚𝐲𝐞𝐯 ☆☆╮
 
-## I'm a student :man_technologist: :computer:
+## 𝘐'𝘮 𝘢 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 :man_technologist: :computer:
 
 ## [![Github](https://img.shields.io/github/followers/rzayevsahil?label=Follow&style=social)](https://github.com/rzayevsahil)
 
 
 
 
--  :smiley:  I’m currently learning C#
-- 💬 Hello.I am a K.T.U student. I love software. Coffee and software are indispensable. Sometimes, even if I have a problem, I try to solve that project before I sleep until morning.
-- :musical_score: I love listening to music 
-- :books: I'm reading detective novels
+-  :smiley:  ░▒▓█ 𝑰’𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑪# █▓▒░
+---
+- 💬 𝙷𝚎𝚕𝚕𝚘.𝙸 𝚊𝚖 𝚊 𝙺.𝚃.𝚄 𝚜𝚝𝚞𝚍𝚎𝚗𝚝. 𝙸 𝚕𝚘𝚟𝚎 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎. 𝙲𝚘𝚏𝚏𝚎𝚎 𝚊𝚗𝚍 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚊𝚛𝚎 𝚒𝚗𝚍𝚒𝚜𝚙𝚎𝚗𝚜𝚊𝚋𝚕𝚎. 𝚂𝚘𝚖𝚎𝚝𝚒𝚖𝚎𝚜, 𝚎𝚟𝚎𝚗 𝚒𝚏 𝙸 𝚑𝚊𝚟𝚎 𝚊 𝚙𝚛𝚘𝚋𝚕𝚎𝚖, 𝙸 𝚝𝚛𝚢 𝚝𝚘 𝚜𝚘𝚕𝚟𝚎 𝚝𝚑𝚊𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚋𝚎𝚏𝚘𝚛𝚎 𝙸 𝚜𝚕𝚎𝚎𝚙 𝚞𝚗𝚝𝚒𝚕 𝚖𝚘𝚛𝚗𝚒𝚗𝚐.
+---
+- :musical_score: ♫♪ 𝐈 𝐥𝐨𝐯𝐞 𝐥𝐢𝐬𝐭𝐞𝐧𝐢𝐧𝐠 𝐭𝐨 𝐦𝐮𝐬𝐢𝐜 ♪♫
+---
+- :books: 𝐈'𝐦 𝐫𝐞𝐚𝐝𝐢𝐧𝐠 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐯𝐞 𝐧𝐨𝐯𝐞𝐥𝐬
 
 <br />
 <br />
