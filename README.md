@@ -22,8 +22,16 @@
 <details>  
 
 <summary> 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨 :zap: </summary>
-  
- ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=rzayevsahil&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevsahil&theme=tokyonight)
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=rzayevsahil&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5" alt="rzayevsahil" />
+ 
+ ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=rzayevsahil&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevsahil&theme=tokyonight&layout=compact)
+ 
+ [![Sahil's github ReCapProject](https://github-readme-stats.vercel.app/api/pin?username=rzayevsahil&repo=ReCapProject&show_icons=true&theme=dark)](https://github.com/rzayevsahil/ReCapProject) [![Sahil's github ReCapProject](https://github-readme-stats.vercel.app/api/pin?username=rzayevsahil&repo=RecapProjectFrontend&show_icons=true&theme=dark)](https://github.com/rzayevsahil/RecapProjectFrontend)
+ 
+</p>
+
+ 
 
 ---
 </details>
