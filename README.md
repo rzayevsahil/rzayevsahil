@@ -15,22 +15,23 @@
 - :musical_score: ♫♪ 𝐈 𝐥𝐨𝐯𝐞 𝐥𝐢𝐬𝐭𝐞𝐧𝐢𝐧𝐠 𝐭𝐨 𝐦𝐮𝐬𝐢𝐜 ♪♫
 
 - :books: 𝐈'𝐦 𝐫𝐞𝐚𝐝𝐢𝐧𝐠 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐯𝐞 𝐧𝐨𝐯𝐞𝐥𝐬
-
+---
 </details>
 
 
-<details>
-***
+<details>  
+
 <summary> GitHub Stats :zap: </summary>
   
-![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=rzayevsahil&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevsahil&theme=tokyonight)
-***
+ ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=rzayevsahil&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevsahil&theme=tokyonight)
+
+---
 </details>
 
 
 <details>
 <summary>My interests</summary>
-
+  
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=badge&logo=c%2B%2B&logoColor=white) 
   ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
@@ -46,6 +47,8 @@
   ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=badge&logo=visual%20studio%20code&logoColor=white)
   ![Visual_Studio_2019](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=badge&logo=visual%20studio&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=badge&logo=eclipse&logoColor=white)
+  
+  
 </details>
   
   ---------------------------------------------------------------------------------------------------------------------------------------------
