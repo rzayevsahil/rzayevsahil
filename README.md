@@ -54,7 +54,7 @@
 - [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahil_rzayev__/) 
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilrzayev) 
 - [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=badge&logo=facebook&logoColor=white)](https://www.facebook.com/mecaz.adam.712) 
-  [![Twitter Badge](https://img.shields.io/badge/sahilrzayev-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Sahil_Rzayev_) 
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=badge&logo=twitter&logoColor=white)](https://twitter.com/Sahil_Rzayev_) 
 
   
   
