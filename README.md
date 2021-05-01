@@ -1,6 +1,6 @@
 ### ╰☆☆ 𝐇𝐢,𝐈'𝐦 𝐒𝐚𝐡𝐢𝐥 𝐑𝐳𝐚𝐲𝐞𝐯 ☆☆╮
 
-## 𝘐'𝘮 𝘢 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 :man_technologist: :computer:
+## 𝘐'𝘮 𝘢 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 :computer:
 
 ## [![Github](https://img.shields.io/github/followers/rzayevsahil?label=Follow&style=social)](https://github.com/rzayevsahil)
 
