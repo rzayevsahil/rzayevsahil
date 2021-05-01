@@ -1,4 +1,4 @@
- <h1 align="center">╰☆☆ 𝐇𝐢,𝐈'𝐦 𝐒𝐚𝐡𝐢𝐥 𝐑𝐳𝐚𝐲𝐞𝐯 ☆☆╮</h1>
+ <h1 align="center">╰☆☆ 𝐇𝐢,𝐈'𝐦 𝐒𝐚𝐡𝐢𝐥 𝐑𝐳𝐚𝐲𝐞𝐯 ☆☆╮ </h1>
 
 ## 𝘐'𝘮 𝘢 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 :computer:
 
@@ -6,7 +6,7 @@
 
 
 <details>
-<summary>About Me ℹ️</summary>
+<summary>𝔸𝕓𝕠𝕦𝕥 𝕞𝕖 ℹ️</summary>
 
 -    ░▒▓█ 𝑰'𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑱𝒂𝒗𝒂 █▓▒░
   
@@ -21,7 +21,7 @@
 
 <details>  
 
-<summary> GitHub Stats :zap: </summary>
+<summary> 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨 :zap: </summary>
   
  ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=rzayevsahil&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevsahil&theme=tokyonight)
 
@@ -30,7 +30,8 @@
 
 
 <details>
-<summary>My interests</summary><br>
+ 
+<summary>🅼🆈 🅸🅽🆃🅴🆁🅴🆂🆃🆂</summary><br>
   
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=badge&logo=c%2B%2B&logoColor=white) 
   ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
