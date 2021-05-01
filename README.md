@@ -30,7 +30,6 @@
 
 
 
-
 -
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=badge&logo=c%2B%2B&logoColor=white) 
   ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
@@ -50,19 +49,12 @@
   
   
   ---------------------------------------------------------------------------------------------------------------------------------------------
-  <details>
-  ***
- <summary>𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆 📫</summary>
+
+  
+## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆 📫
   
  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=badge&logo=gmail&logoColor=white)](https://www.sahilrzayev200d@gmail.com) sahilrzayev200d@gmail.com
  - [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahil_rzayev__/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilrzayev) 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=badge&logo=facebook&logoColor=white)](https://www.facebook.com/mecaz.adam.712) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=badge&logo=twitter&logoColor=white)](https://twitter.com/Sahil_Rzayev_) 
-***
-
-</details>
-  
-  
-
-
