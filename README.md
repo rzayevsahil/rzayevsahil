@@ -24,15 +24,25 @@
 <details>  
 
 <summary> 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨 :zap: </summary>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rzayevsahil&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5" alt="rzayevsahil" />
+ <div align="center">
+    
+ <img height=177 src="https://github-readme-stats.vercel.app/api?username=rzayevsahil&show_icons=true&theme=dark" alt="rzayevsahil" />
+  
+ <img height=177  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevsahil&theme=tokyonight&layout=compact">
+  
+  </div>
+  
  
- ![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=rzayevsahil&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevsahil&theme=tokyonight&layout=compact)
- 
- [![Sahil's github ReCapProject](https://github-readme-stats.vercel.app/api/pin?username=rzayevsahil&repo=ReCapProject&show_icons=true&theme=dark)](https://github.com/rzayevsahil/ReCapProject) [![Sahil's github ReCapProject](https://github-readme-stats.vercel.app/api/pin?username=rzayevsahil&repo=RecapProjectFrontend&show_icons=true&theme=dark)](https://github.com/rzayevsahil/RecapProjectFrontend)
- 
-</p>
+ <div align="center">
+  
+ <img height=125 src="https://github-readme-stats.vercel.app/api/pin?username=rzayevsahil&repo=ReCapProject&show_icons=true&theme=dark">
+  
+ <img height=125 src="https://github-readme-stats.vercel.app/api/pin?username=rzayevsahil&repo=RecapProjectFrontend&show_icons=true&theme=dark">
+  
+  <img height=140 src="https://github-profile-trophy.vercel.app/?username=rzayevsahil&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5" alt="rzayevsahil" />
 
+</div>
+ 
  
 
 ---
