@@ -84,6 +84,4 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=badge&logo=twitter&logoColor=white)](https://twitter.com/Sahil_Rzayev_) 
 </details>
 
-![github-user-contribution](https://user-images.githubusercontent.com/58303745/192636698-dd447d16-b7a8-4595-9226-70a9780ef0b5.svg)
 
-<div  align="center"> <img src="https://github.com/rzayevsahil/rzayevsahil/blob/output/github-contribution-grid-snake.gif" /></div>
