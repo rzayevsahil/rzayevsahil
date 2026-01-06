@@ -1,6 +1,6 @@
  <h1 align="center">╰☆☆ 𝐇𝐢,𝐈'𝐦 𝐒𝐚𝐡𝐢𝐥 𝐑𝐳𝐚𝐲𝐞𝐯 ☆☆╮ </h1>
 
-## 𝘐'𝘮 𝘢 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 :computer:
+##𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 :computer:
 
 
 ## [![Github](https://img.shields.io/github/followers/rzayevsahil?label=Follow&style=social)](https://github.com/rzayevsahil) [![Github](https://img.shields.io/github/stars/rzayevsahil?label=Star&style=social)](https://github.com/rzayevsahil)
