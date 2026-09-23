@@ -215,16 +215,6 @@ Some of the areas I'm currently interested in:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rzayevsahil&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevsahil&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rzayevsahil&theme=github_dark" />
 
 </div>
@@ -288,9 +278,6 @@ When I'm not writing code, you'll probably find me:
   </a>
   <a href="https://www.linkedin.com/in/sahilrzayev">
     <img src="https://img.shields.io/badge/LinkedIn-Sahil_Rzayev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/sahil_rzayev__/">
-    <img src="https://img.shields.io/badge/Instagram-sahil__rzayev__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
