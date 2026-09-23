@@ -23,16 +23,18 @@
 
 I'm a **Software Developer with 4.5+ years of professional experience**, primarily working with the **.NET ecosystem**.
 
-My main focus is building reliable backend systems, APIs, business applications and integrations using **C#, ASP.NET Core and SQL Server**. I also have experience working on frontend applications with **Angular and TypeScript**.
+My main focus is building reliable backend systems, APIs, business applications and integrations using **C#, ASP.NET Core, Entity Framework Core and SQL Server**. I also have experience building modern frontend applications with **Angular, React and TypeScript**.
 
-I enjoy turning complex requirements into maintainable software and spending an unreasonable amount of time figuring out *why something doesn't work*. ☕️
+I'm particularly interested in **software architecture, distributed systems, developer tools and building practical products from idea to implementation**.
 
 ```text
 💻 4.5+ years of software development experience
 ⚙️  Backend-focused .NET / C# Developer
-🏗️  APIs • Business Applications • Integrations
-🗄️  SQL Server • Entity Framework
-🌐  Angular • TypeScript
+🏗️  APIs • Microservices • Business Applications
+🗄️  SQL Server • PostgreSQL • Redis
+📨  RabbitMQ • Distributed Systems
+🌐  Angular • React • TypeScript
+🐳  Docker • CI/CD • GitHub Actions
 🧠  Software Architecture • Design Patterns
 🚀  Always building, learning and experimenting
 ```
@@ -41,38 +43,61 @@ I enjoy turning complex requirements into maintainable software and spending an 
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Backend & .NET
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-### Database
+### Architecture & Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-Architecture-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-239120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID-Principles-239120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design-Patterns-239120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dependency-Injection-239120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST-APIs-239120?style=for-the-badge" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### Tools & Practices
+### DevOps & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
@@ -85,33 +110,53 @@ I enjoy turning complex requirements into maintainable software and spending an 
 Backend Development
 ├── C# / .NET
 ├── ASP.NET Core
+│   ├── Web API
+│   ├── MVC
+│   └── Identity
+├── Entity Framework Core
+├── LINQ
 ├── RESTful APIs
-├── MVC / Razor
-├── Entity Framework
+└── Microservices
+
+Data & Distributed Systems
 ├── SQL Server
-└── Business Integrations
+├── PostgreSQL
+├── Redis
+├── RabbitMQ
+└── Distributed Systems
 
 Software Engineering
+├── OOP
 ├── SOLID Principles
 ├── Design Patterns
 ├── Dependency Injection
-├── Clean & Maintainable Code
-├── Concurrency & Data Consistency
-└── API Design
+├── Software Architecture
+├── API Design
+└── Concurrency & Data Consistency
 
 Frontend
 ├── Angular
+│   ├── RxJS
+│   └── NgRx
+├── React
 ├── TypeScript
 ├── JavaScript
-├── HTML / CSS
+├── HTML5
+├── CSS / SCSS
 └── Bootstrap
+
+DevOps & Infrastructure
+├── Docker
+├── Git
+└── CI/CD
+    └── GitHub Actions
 ```
 
 ---
 
 ## 🚀 Projects & Experiments
 
-I like building projects that solve real problems rather than building software just for the sake of building it.
+I like building projects that solve real problems rather than building software just for the sake of it.
 
 Some of the areas I'm currently interested in:
 
@@ -121,6 +166,7 @@ Some of the areas I'm currently interested in:
 * 🏫 **Software solutions for universities and laboratories**
 * 🌐 **Web APIs, integrations and business applications**
 * 🧠 **Software architecture and developer tooling**
+* 🐳 **Distributed applications and containerized systems**
 
 > I enjoy taking an idea from a rough concept → architecture → implementation → a working product.
 
@@ -176,6 +222,7 @@ Some of the areas I'm currently interested in:
 🌱 Deepening my knowledge of .NET and software architecture
 🧠 Exploring AI-assisted software development
 ⚡ Interested in developer productivity and desktop tooling
+🐳 Exploring distributed systems and containerized applications
 ☕ Probably drinking coffee while debugging something
 ```
 
