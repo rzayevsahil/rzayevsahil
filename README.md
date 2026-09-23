@@ -72,6 +72,8 @@ I'm particularly interested in **software architecture, distributed systems, dev
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -119,10 +121,16 @@ Backend Development
 └── Microservices
 
 Data & Distributed Systems
-├── SQL Server
-├── PostgreSQL
-├── Redis
-├── RabbitMQ
+├── Relational Databases
+│   ├── SQL Server
+│   ├── PostgreSQL
+│   └── MySQL
+├── NoSQL
+│   └── MongoDB
+├── Caching
+│   └── Redis
+├── Message Brokers
+│   └── RabbitMQ
 └── Distributed Systems
 
 Software Engineering
