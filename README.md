@@ -25,21 +25,24 @@ I'm a **Software Developer with 4.5+ years of professional experience**, primari
 
 My main focus is building reliable backend systems, APIs, business applications and integrations using **C#, ASP.NET Core, Entity Framework Core and SQL Server**. I also have experience building modern frontend applications with **Angular, React and TypeScript**.
 
-I'm particularly interested in **software architecture, distributed systems, developer tools and building practical products from idea to implementation**.
+I'm particularly interested in **software architecture, distributed systems, developer tools, AI-assisted development and building practical products from idea to implementation**.
 
 ```text
 💻 4.5+ years of software development experience
 ⚙️  Backend-focused .NET / C# Developer
 🏗️  APIs • Microservices • Business Applications
-🗄️  SQL Server • PostgreSQL • Redis
+🗄️  SQL Server • PostgreSQL • MongoDB • Redis
 📨  RabbitMQ • Distributed Systems
 🌐  Angular • React • TypeScript
+🤖  AI-Assisted Development • AI Coding Tools
 🐳  Docker • CI/CD • GitHub Actions
 🧠  Software Architecture • Design Patterns
 🚀  Always building, learning and experimenting
 ```
 
-### 🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 ### Backend & .NET
 
@@ -94,6 +97,19 @@ I'm particularly interested in **software architecture, distributed systems, dev
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### AI & Developer Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Emergent-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge" />
 </p>
 
 ### DevOps & Tools
@@ -154,6 +170,19 @@ Frontend
 ├── HTML5
 ├── CSS / SCSS
 └── Bootstrap
+
+AI-Assisted Development
+├── AI Coding
+│   ├── Claude Code
+│   ├── OpenAI Codex
+│   ├── Cursor
+│   └── Antigravity
+├── AI Prototyping
+│   ├── Google AI Studio
+│   ├── Google Stitch
+│   ├── Lovable
+│   └── Emergent
+└── AI-Powered Workflows
 
 DevOps & Infrastructure
 ├── Docker
@@ -233,6 +262,7 @@ Some of the areas I'm currently interested in:
 🧠 Exploring AI-assisted software development
 ⚡ Interested in developer productivity and desktop tooling
 🐳 Exploring distributed systems and containerized applications
+🤖 Experimenting with AI coding agents and generative development tools
 ☕ Probably drinking coffee while debugging something
 ```
 
